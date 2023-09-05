@@ -13,7 +13,7 @@ conn.once('open', () => {
     gfs.collection('fs');
 });
 
-const url = '';
+const url = 'https://blog-backend-pjau.onrender.com';
 // const url = 'http://localhost:8000/';
 
 
